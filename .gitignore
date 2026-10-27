@@ -1,0 +1,29 @@
+# Keil build outputs
+firmware/MDK-ARM/P01_CLOCK_HAL/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+*.iex
+*.sct
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+*.uvproj.bak
+
+# IDE
+.vs/
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
